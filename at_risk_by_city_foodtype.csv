@@ -1,0 +1,626 @@
+City,Food_Type,Quantity
+Alexanderchester,Vegetarian,39
+Allenton,Vegetarian,33
+Allenton,Vegan,19
+Amandashire,Vegan,33
+Amberton,Vegan,25
+Andreaborough,Vegan,8
+Andrewsmouth,Non-Vegetarian,33
+Annahaven,Vegetarian,11
+Anneville,Non-Vegetarian,72
+Anthonyborough,Vegetarian,36
+Anthonyhaven,Non-Vegetarian,3
+Anthonyshire,Vegan,30
+Anthonyton,Vegan,3
+Ashleyhaven,Non-Vegetarian,44
+Bairdfort,Vegan,50
+Bartonborough,Vegan,67
+Basstown,Non-Vegetarian,35
+Belindaville,Vegan,43
+Belindaville,Vegetarian,3
+Bellport,Non-Vegetarian,21
+Bellport,Vegetarian,16
+Bentleyburgh,Vegan,87
+Blaketown,Non-Vegetarian,32
+Blaketown,Vegetarian,32
+Bonillahaven,Vegetarian,22
+Boylechester,Vegetarian,7
+Bradleyport,Non-Vegetarian,39
+Bradleyport,Vegan,39
+Brandyberg,Non-Vegetarian,37
+Brendantown,Vegan,47
+Brianside,Vegetarian,4
+Brittanyland,Non-Vegetarian,29
+Brittanyland,Vegetarian,23
+Brittanyport,Vegetarian,9
+Brittanyside,Vegan,46
+Brittanyside,Vegetarian,32
+Brittanyville,Vegan,1
+Brookeland,Vegetarian,36
+Brookeland,Vegan,2
+Brownshire,Non-Vegetarian,46
+Browntown,Vegan,44
+Callahanside,Vegan,18
+Cameronside,Vegan,7
+Cannonside,Vegan,34
+Carlborough,Vegan,34
+Carlbury,Non-Vegetarian,40
+Carlbury,Vegan,40
+Carolchester,Vegetarian,33
+Carolchester,Vegan,22
+Carrport,Non-Vegetarian,4
+Castilloport,Vegetarian,44
+Castilloport,Non-Vegetarian,18
+Chambersfort,Non-Vegetarian,31
+Charlesmouth,Non-Vegetarian,49
+Charlesview,Non-Vegetarian,18
+Chelseyfort,Non-Vegetarian,21
+Chelseyfort,Vegetarian,7
+Christinaland,Vegan,34
+Christinamouth,Non-Vegetarian,39
+Christinetown,Vegan,13
+Christopherstad,Vegan,22
+Christopherton,Vegetarian,43
+Cisnerostown,Non-Vegetarian,20
+Cisnerostown,Vegetarian,18
+Cisnerostown,Vegan,10
+Clarkberg,Non-Vegetarian,28
+Coleburgh,Vegan,18
+Colemanton,Non-Vegetarian,44
+Colemanton,Vegetarian,3
+Collinsmouth,Vegetarian,24
+Connieside,Vegetarian,6
+Cordovaborough,Vegetarian,40
+Crystalborough,Vegetarian,49
+Darrylchester,Vegan,15
+Davidborough,Vegetarian,35
+Davidville,Vegan,32
+Davidville,Vegetarian,26
+Davisview,Vegan,18
+Deborahfurt,Non-Vegetarian,5
+Deborahland,Vegan,39
+Deckermouth,Vegetarian,27
+Donnaborough,Vegan,34
+Donnaborough,Vegetarian,13
+East Aaron,Non-Vegetarian,31
+East Aaron,Vegetarian,6
+East Amyfurt,Vegan,17
+East Andrea,Vegetarian,30
+East Andrea,Non-Vegetarian,21
+East Andrewland,Non-Vegetarian,52
+East Angela,Vegan,40
+East Angela,Vegetarian,18
+East Angela,Non-Vegetarian,3
+East Angelafort,Non-Vegetarian,36
+East Anthony,Vegetarian,52
+East Ashleyshire,Vegetarian,44
+East Ashleyshire,Non-Vegetarian,42
+East Austin,Non-Vegetarian,40
+East Austin,Vegan,13
+East Brittanyland,Vegetarian,23
+East Candace,Non-Vegetarian,49
+East Christophertown,Vegetarian,2
+East Craig,Vegan,47
+East Craig,Non-Vegetarian,19
+East Cynthia,Vegetarian,27
+East Deborah,Vegan,12
+East Edwinburgh,Non-Vegetarian,16
+East Elizabeth,Vegetarian,42
+East Elizabethberg,Non-Vegetarian,18
+East Elizabethberg,Vegetarian,15
+East Garyton,Non-Vegetarian,42
+East Heatherport,Vegetarian,17
+East Jacobchester,Vegan,29
+East Jacobchester,Non-Vegetarian,13
+East John,Vegan,42
+East John,Vegetarian,17
+East Johnburgh,Non-Vegetarian,3
+East Kevin,Vegan,8
+East Kimberly,Vegan,33
+East Laurashire,Vegan,5
+East Lindsayville,Non-Vegetarian,45
+East Lisa,Vegan,1
+East Lori,Non-Vegetarian,8
+East Meganfort,Vegan,40
+East Melissa,Non-Vegetarian,54
+East Melissa,Vegetarian,38
+East Michelle,Vegan,33
+East Nicholasbury,Non-Vegetarian,21
+East Phillipton,Non-Vegetarian,48
+East Richardside,Vegan,12
+East Richardside,Vegetarian,7
+East Robert,Vegan,57
+East Robert,Vegetarian,39
+East Rossside,Vegan,47
+East Samantha,Vegetarian,49
+East Sandra,Vegan,18
+East Sandratown,Vegetarian,3
+East Shanestad,Vegetarian,20
+East Sheena,Vegan,53
+East Sonyaport,Non-Vegetarian,49
+East Stephanie,Vegetarian,12
+East Tammy,Non-Vegetarian,32
+East Terrancemouth,Vegetarian,63
+East Williamshire,Vegetarian,15
+Elliottberg,Vegetarian,48
+Erikatown,Non-Vegetarian,16
+Evansmouth,Vegan,2
+Floresville,Vegetarian,33
+Fowlerbury,Vegetarian,33
+Francisshire,Vegan,18
+Francisshire,Vegetarian,11
+Frederickside,Non-Vegetarian,35
+Frederickside,Vegetarian,29
+Gaineschester,Non-Vegetarian,4
+Garciamouth,Vegan,23
+Garciaport,Vegan,14
+Garciaside,Vegan,17
+Garciatown,Vegetarian,20
+Gardnerfort,Vegetarian,99
+Ginaview,Non-Vegetarian,31
+Grahamside,Vegetarian,14
+Gutierrezshire,Vegetarian,39
+Hawkinsmouth,Non-Vegetarian,49
+Heathermouth,Vegan,39
+Heatherview,Non-Vegetarian,45
+Heatherview,Vegan,44
+Henrychester,Non-Vegetarian,33
+Herbertbury,Non-Vegetarian,45
+Hollyhaven,Non-Vegetarian,62
+Hollyhaven,Vegan,48
+Jamesfurt,Non-Vegetarian,53
+Jamesport,Vegetarian,35
+Jamesport,Non-Vegetarian,24
+Janetborough,Vegan,45
+Jasmineberg,Vegetarian,26
+Jasonland,Vegetarian,15
+Jasonstad,Non-Vegetarian,36
+Jasonstad,Vegan,6
+Jefferyside,Vegetarian,50
+Jefferyside,Vegan,18
+Jeffreybury,Non-Vegetarian,41
+Jeffreyport,Non-Vegetarian,5
+Jeffreyshire,Vegetarian,21
+Jennifertown,Vegan,27
+Jenniferville,Vegan,20
+Jeremiahfort,Vegan,49
+Jessicaland,Vegetarian,50
+Jessicaland,Vegan,29
+Jimmyberg,Vegetarian,64
+Jimmyberg,Non-Vegetarian,45
+Jimmyberg,Vegan,41
+Johnport,Non-Vegetarian,12
+Johnsonborough,Vegetarian,41
+Johnsonside,Vegetarian,33
+Johnstonhaven,Non-Vegetarian,32
+Johnton,Vegetarian,26
+Jonathanhaven,Vegan,72
+Jonathanmouth,Vegetarian,33
+Jonathanstad,Non-Vegetarian,47
+Jonathanstad,Vegetarian,45
+Jonathanstad,Vegan,34
+Joneshaven,Non-Vegetarian,31
+Joneshaven,Vegan,11
+Jordanborough,Vegetarian,8
+Jordanhaven,Vegetarian,88
+Josephburgh,Vegan,48
+Joseville,Vegan,44
+Justinhaven,Vegetarian,4
+Katherinefurt,Vegan,17
+Kellytown,Vegan,15
+Kellytown,Non-Vegetarian,3
+Kentland,Vegan,22
+Kylehaven,Vegan,50
+Kylehaven,Non-Vegetarian,12
+Lake Alicia,Vegan,5
+Lake Alicia,Non-Vegetarian,3
+Lake Amymouth,Vegetarian,46
+Lake Amymouth,Non-Vegetarian,1
+Lake Andrewmouth,Non-Vegetarian,19
+Lake Anthonyport,Vegetarian,1
+Lake April,Non-Vegetarian,14
+Lake Benjamin,Vegetarian,20
+Lake Benjamin,Non-Vegetarian,11
+Lake Christopherburgh,Non-Vegetarian,43
+Lake Christopherburgh,Vegetarian,36
+Lake Christophermouth,Vegan,24
+Lake Coryhaven,Vegan,25
+Lake Deborah,Vegetarian,9
+Lake Diane,Non-Vegetarian,28
+Lake Diane,Vegetarian,27
+Lake Donna,Non-Vegetarian,21
+Lake George,Vegan,27
+Lake James,Vegan,11
+Lake Jamestown,Vegetarian,48
+Lake Jason,Vegetarian,41
+Lake Jeffreytown,Vegan,5
+Lake Joseph,Vegan,20
+Lake Justin,Non-Vegetarian,20
+Lake Justin,Vegan,12
+Lake Karenfurt,Non-Vegetarian,96
+Lake Kendramouth,Non-Vegetarian,87
+Lake Kristentown,Vegetarian,22
+Lake Lorrainefort,Vegetarian,42
+Lake Lorrainefort,Vegan,23
+Lake Maria,Non-Vegetarian,45
+Lake Michael,Vegan,44
+Lake Mistyton,Non-Vegetarian,48
+Lake Nathan,Vegetarian,6
+Lake Rachael,Vegetarian,37
+Lake Rachael,Vegan,27
+Lake Raymondton,Vegan,21
+Lake Regina,Vegan,85
+Lake Regina,Non-Vegetarian,17
+Lake Richardhaven,Non-Vegetarian,9
+Lake Ryanbury,Vegan,13
+Lake Stephen,Vegetarian,44
+Lake Traceyburgh,Non-Vegetarian,39
+Lake Travis,Non-Vegetarian,96
+Lake Travis,Vegan,44
+Latoyaberg,Vegetarian,14
+Laurietown,Vegetarian,15
+Laurietown,Non-Vegetarian,4
+Leeburgh,Non-Vegetarian,79
+Leslieville,Vegetarian,33
+Leslieville,Non-Vegetarian,22
+Lesterstad,Vegan,50
+Lewisberg,Vegan,41
+Lindseybury,Vegan,59
+Lindseybury,Vegetarian,12
+Lindseyland,Vegetarian,7
+Lisamouth,Vegan,43
+Lopezport,Vegan,5
+Madelinechester,Vegan,47
+Madisonfort,Vegan,78
+Madisonfort,Vegetarian,4
+Manningshire,Vegan,31
+Manningshire,Vegetarian,25
+Manuelhaven,Vegetarian,7
+Marcstad,Vegetarian,40
+Markport,Vegan,54
+Markport,Vegetarian,19
+Martinville,Non-Vegetarian,32
+Marymouth,Non-Vegetarian,25
+Maxwellburgh,Vegan,12
+Maxwellburgh,Vegetarian,3
+Maynardstad,Non-Vegetarian,40
+Maynardstad,Vegetarian,13
+Maysside,Vegan,49
+Medinatown,Vegan,48
+Medinatown,Vegetarian,46
+Meganshire,Vegan,37
+Mendezmouth,Vegan,31
+Mendezmouth,Non-Vegetarian,19
+Michaelport,Vegetarian,72
+Michaelport,Non-Vegetarian,26
+Michaelview,Vegan,11
+Mikaylachester,Non-Vegetarian,28
+Millerview,Vegetarian,3
+Mooneybury,Vegan,48
+Mooremouth,Vegetarian,46
+Mooreview,Vegan,25
+Moralesside,Vegetarian,78
+Morganhaven,Vegetarian,30
+Mortonfort,Non-Vegetarian,33
+Mortonfort,Vegan,23
+Moseshaven,Vegan,33
+Muellermouth,Non-Vegetarian,49
+Muellermouth,Vegetarian,19
+Murrayborough,Non-Vegetarian,21
+New Amanda,Vegetarian,68
+New Amanda,Vegan,34
+New Amanda,Non-Vegetarian,17
+New Bobbytown,Non-Vegetarian,36
+New Calebberg,Vegetarian,46
+New Carol,Vegan,52
+New Carol,Vegetarian,25
+New Connorfort,Vegan,10
+New Curtis,Vegetarian,32
+New Daniel,Vegan,36
+New Denise,Vegetarian,50
+New Evanport,Vegan,46
+New Hannah,Vegetarian,6
+New Hollyfurt,Vegetarian,1
+New Jacob,Vegetarian,13
+New Jamesburgh,Vegetarian,18
+New Jessica,Vegan,78
+New Joel,Non-Vegetarian,26
+New Joel,Vegetarian,3
+New John,Vegetarian,19
+New John,Non-Vegetarian,6
+New Larry,Vegan,11
+New Leslieport,Vegan,44
+New Matthew,Non-Vegetarian,32
+New Michaelmouth,Vegan,2
+New Michelle,Vegan,35
+New Monicaside,Vegan,1
+New Ninashire,Vegan,16
+New Rachel,Non-Vegetarian,49
+New Richard,Vegetarian,49
+New Richard,Non-Vegetarian,19
+New Ricky,Non-Vegetarian,7
+New Rodneyville,Non-Vegetarian,17
+New Rodneyville,Vegan,6
+New Thomasmouth,Non-Vegetarian,50
+New Tiffanystad,Vegan,35
+New Travisshire,Vegetarian,8
+Nicoletown,Vegetarian,36
+Nolanmouth,Vegan,29
+North Aaron,Vegetarian,44
+North Aaron,Non-Vegetarian,7
+North Amanda,Vegan,26
+North Amanda,Vegetarian,17
+North Brendaborough,Vegetarian,42
+North Brentbury,Vegan,38
+North Brooke,Vegan,38
+North Caitlin,Vegan,36
+North Carolfurt,Vegetarian,13
+North Catherine,Non-Vegetarian,34
+North Charlesside,Vegan,74
+North Chase,Vegetarian,7
+North Chase,Vegan,6
+North Destiny,Vegan,20
+North Douglasfurt,Vegetarian,75
+North Ebony,Vegan,39
+North Ebony,Vegetarian,34
+North Elizabeth,Vegan,20
+North Gary,Non-Vegetarian,1
+North Garybury,Vegan,63
+North Ianbury,Vegetarian,58
+North Ianbury,Non-Vegetarian,39
+North James,Vegetarian,22
+North James,Non-Vegetarian,11
+North Jamesberg,Vegan,30
+North Joseph,Non-Vegetarian,45
+North Julieburgh,Vegan,39
+North Julieburgh,Non-Vegetarian,38
+North Katelynland,Non-Vegetarian,47
+North Keith,Vegetarian,91
+North Keith,Non-Vegetarian,41
+North Kennethshire,Vegan,40
+North Kennethshire,Non-Vegetarian,20
+North Kevinhaven,Non-Vegetarian,60
+North Kevinhaven,Vegan,9
+North Kylestad,Vegetarian,43
+North Lauren,Non-Vegetarian,31
+North Lindseychester,Vegetarian,41
+North Lindseychester,Non-Vegetarian,24
+North Mariahchester,Vegan,43
+North Mary,Non-Vegetarian,33
+North Melanie,Vegan,14
+North Michelle,Vegan,50
+North Mike,Non-Vegetarian,13
+North Nicholas,Vegan,41
+North Nicholas,Non-Vegetarian,39
+North Ryan,Vegetarian,42
+North Sharonberg,Non-Vegetarian,24
+North Sharonburgh,Non-Vegetarian,31
+North Sherrimouth,Vegetarian,42
+North Sherrimouth,Vegan,11
+North Steven,Vegetarian,15
+North Stevenbury,Vegan,45
+North Susan,Vegan,38
+North Tracy,Non-Vegetarian,29
+North William,Vegan,13
+Padillatown,Non-Vegetarian,33
+Pamelaberg,Vegetarian,80
+Pamelaberg,Vegan,36
+Patrickmouth,Vegan,44
+Paulmouth,Vegan,62
+Penabury,Vegan,55
+Penabury,Non-Vegetarian,8
+Perezport,Vegan,42
+Perezport,Vegetarian,14
+Pereztown,Non-Vegetarian,26
+Pereztown,Vegetarian,4
+Perkinsbury,Non-Vegetarian,14
+Petersonburgh,Non-Vegetarian,17
+Phillipsfort,Vegan,15
+Phillipsmouth,Non-Vegetarian,26
+Port Aaron,Vegan,29
+Port Andre,Non-Vegetarian,21
+Port Andrea,Non-Vegetarian,22
+Port Andrea,Vegetarian,20
+Port Anita,Vegan,29
+Port Bryce,Vegetarian,2
+Port Carrie,Vegan,47
+Port Connie,Non-Vegetarian,41
+Port Connie,Vegan,23
+Port Daniellechester,Vegetarian,8
+Port David,Vegan,41
+Port David,Non-Vegetarian,37
+Port Dianaberg,Non-Vegetarian,35
+Port Dustin,Vegetarian,34
+Port Eric,Non-Vegetarian,32
+Port Erin,Vegan,47
+Port Gregton,Vegetarian,42
+Port Heidiland,Non-Vegetarian,23
+Port Jacob,Vegetarian,29
+Port Jeffrey,Vegetarian,26
+Port Kendraborough,Non-Vegetarian,27
+Port Lance,Non-Vegetarian,32
+Port Leahfurt,Vegan,38
+Port Lesliebury,Vegetarian,10
+Port Lisamouth,Vegan,12
+Port Marissachester,Vegan,3
+Port Markview,Vegetarian,46
+Port Melanie,Vegan,83
+Port Melissa,Vegan,44
+Port Melissa,Non-Vegetarian,18
+Port Michael,Vegan,64
+Port Michaelshire,Vegetarian,25
+Port Patrick,Non-Vegetarian,53
+Port Patrick,Vegan,26
+Port Peter,Non-Vegetarian,39
+Port Richardshire,Non-Vegetarian,32
+Port Richardshire,Vegetarian,3
+Port Robertport,Vegetarian,19
+Port Robin,Vegan,72
+Port Robin,Non-Vegetarian,7
+Port Ronaldshire,Vegan,21
+Port Rubenville,Vegan,8
+Port Staceymouth,Non-Vegetarian,19
+Port Tanyaburgh,Vegetarian,2
+Port Timothystad,Non-Vegetarian,40
+Port Victoria,Non-Vegetarian,28
+Priceland,Non-Vegetarian,62
+Ramosville,Non-Vegetarian,16
+Randallchester,Vegetarian,35
+Rebeccaburgh,Vegetarian,17
+Reidland,Vegan,22
+Reyesshire,Vegetarian,47
+Riceshire,Vegetarian,21
+Richardsonhaven,Vegetarian,5
+Richchester,Non-Vegetarian,16
+Robertshire,Vegan,14
+Rodriguezfurt,Non-Vegetarian,16
+Rodriguezview,Vegan,37
+Rodriguezview,Vegetarian,7
+Rogersmouth,Vegetarian,37
+Roystad,Vegan,48
+Ruizmouth,Non-Vegetarian,48
+Russellfurt,Vegetarian,50
+Salastown,Non-Vegetarian,15
+Salinasville,Vegan,24
+Samanthabury,Non-Vegetarian,46
+Sandrastad,Vegan,29
+Sandrastad,Vegetarian,27
+Saraburgh,Vegetarian,43
+Sarahland,Vegetarian,21
+Scottchester,Non-Vegetarian,34
+Sharonton,Vegan,42
+Sharonton,Vegetarian,31
+Sheenashire,Vegetarian,20
+Sheilaburgh,Vegetarian,50
+Shirleyland,Vegan,50
+Smithfort,Non-Vegetarian,33
+Smithmouth,Vegan,14
+Snyderton,Vegetarian,46
+Snyderton,Vegan,2
+Solisburgh,Vegan,47
+Solisburgh,Vegetarian,27
+South Alicia,Vegan,25
+South Andrewport,Vegan,9
+South Anne,Vegetarian,38
+South Bradleyburgh,Non-Vegetarian,17
+South Brenda,Vegetarian,2
+South Bryan,Non-Vegetarian,44
+South Bryan,Vegan,26
+South Bryan,Vegetarian,12
+South Charles,Non-Vegetarian,25
+South Christopherborough,Vegetarian,49
+South Christopherborough,Vegan,37
+South Crystalberg,Vegan,42
+South Danielle,Non-Vegetarian,50
+South Danielle,Vegan,37
+South Davidside,Vegetarian,40
+South Donald,Vegan,6
+South Jacobport,Vegetarian,23
+South Jeffreyburgh,Non-Vegetarian,25
+South Jerryside,Non-Vegetarian,35
+South Jerryside,Vegetarian,17
+South Jessicachester,Vegan,23
+South Jillshire,Non-Vegetarian,6
+South Johnshire,Vegan,4
+South Karen,Vegetarian,37
+South Kathryn,Vegetarian,48
+South Kathryn,Non-Vegetarian,31
+South Kellyberg,Non-Vegetarian,72
+South Kevinhaven,Non-Vegetarian,14
+South Lisaberg,Non-Vegetarian,17
+South Marthahaven,Vegan,3
+South Michaelberg,Vegan,15
+South Michellechester,Vegetarian,50
+South Nicholasville,Vegetarian,8
+South Randy,Non-Vegetarian,46
+South Richard,Vegetarian,14
+South Richardhaven,Vegetarian,39
+South Robert,Vegetarian,27
+South Russelltown,Vegan,15
+South Stefanietown,Non-Vegetarian,29
+South Thomasville,Vegetarian,47
+South Thomasville,Vegan,40
+South Thomasville,Non-Vegetarian,24
+South Tiffanyfort,Vegetarian,8
+South Tiffanyfort,Non-Vegetarian,5
+South Tylerstad,Vegan,9
+South William,Non-Vegetarian,7
+Stephanieberg,Vegetarian,28
+Stevenchester,Non-Vegetarian,10
+Steveport,Vegetarian,37
+Strongmouth,Vegan,34
+Tamaraside,Vegan,2
+Tammyside,Vegetarian,16
+Taylorchester,Non-Vegetarian,32
+Thomasville,Vegetarian,39
+Thomasville,Vegan,14
+Thorntonbury,Non-Vegetarian,69
+Timothychester,Non-Vegetarian,2
+Toddberg,Non-Vegetarian,30
+Torresshire,Vegetarian,14
+Torresshire,Non-Vegetarian,8
+Tyronebury,Non-Vegetarian,20
+Valdezborough,Non-Vegetarian,42
+Valentineside,Non-Vegetarian,48
+Valentineside,Vegetarian,44
+Velazquezview,Vegan,1
+Villaborough,Non-Vegetarian,34
+Villastad,Vegan,42
+Villastad,Non-Vegetarian,20
+Wadeville,Non-Vegetarian,25
+Walterton,Vegan,42
+Watsonstad,Non-Vegetarian,67
+Watsonstad,Vegan,9
+Watsonton,Vegetarian,9
+Weberfurt,Non-Vegetarian,11
+West Adam,Vegetarian,29
+West Aliciabury,Vegan,38
+West Amandafurt,Vegan,38
+West Anthonymouth,Vegetarian,11
+West Brandon,Non-Vegetarian,37
+West Brandon,Vegan,5
+West Catherine,Vegetarian,33
+West Cherylfort,Vegan,39
+West Corey,Vegan,27
+West Danielborough,Non-Vegetarian,6
+West Dawn,Non-Vegetarian,50
+West Hunter,Non-Vegetarian,57
+West James,Vegetarian,44
+West James,Non-Vegetarian,22
+West Juliabury,Vegetarian,27
+West Juliabury,Vegan,25
+West Juliabury,Non-Vegetarian,12
+West Kelli,Non-Vegetarian,41
+West Kevin,Vegan,40
+West Larry,Non-Vegetarian,19
+West Lauraborough,Vegetarian,21
+West Lauraborough,Non-Vegetarian,6
+West Matthew,Vegan,17
+West Melissa,Vegetarian,4
+West Miaside,Non-Vegetarian,42
+West Robert,Non-Vegetarian,38
+West Robert,Vegan,32
+West Samantha,Vegetarian,26
+West Samuelfurt,Vegetarian,8
+West Samuelfurt,Vegan,6
+West Sharonview,Vegan,87
+West Sharonview,Vegetarian,10
+West Stevenport,Non-Vegetarian,19
+West Tinamouth,Non-Vegetarian,27
+West Vanessafort,Vegan,47
+West Whitneymouth,Vegan,52
+West Whitneymouth,Vegetarian,39
+Westbury,Vegan,21
+Wheelermouth,Vegan,13
+Williamland,Vegan,41
+Williamsfort,Non-Vegetarian,19
+Williamsfort,Vegan,8
+Williamsmouth,Vegan,34
+Williamsonmouth,Non-Vegetarian,31
+Williamsonmouth,Vegetarian,3
+Williamview,Vegan,21
+Wilsonport,Non-Vegetarian,5
+Wilsonview,Non-Vegetarian,32
+Woodport,Vegetarian,19
+Zimmermanton,Vegetarian,48
+Zimmermanville,Vegan,39
