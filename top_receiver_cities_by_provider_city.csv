@@ -1,249 +1,340 @@
-Provider_City,Completed_Claims_Count
-Adambury,3
-Allenborough,3
-Allenton,1
-Amberton,1
-Andersonmouth,3
-Andersonville,3
-Andreaborough,2
-Anneville,3
-Aprilberg,1
-Basstown,2
-Batesstad,1
-Benjaminstad,2
-Bentleyburgh,3
-Bentonfurt,1
-Bradleyport,1
-Brandyberg,2
-Brittanyside,1
-Brittanyville,3
-Brownberg,3
-Brownchester,2
-Cameronside,3
-Chelseaside,1
-Clarkberg,6
-Coleburgh,8
-Cunninghambury,4
-Danachester,5
-Darrylchester,1
-Davidborough,1
-Davidland,3
-Davidport,1
-Davidville,1
-Derekport,4
-Devinmouth,8
-Donnaborough,1
-East Andrea,3
-East Andrewland,2
-East Angela,2
-East Angelafort,2
-East Bernard,1
-East Brittanyland,2
-East Candace,3
-East Courtneymouth,1
-East Craig,1
-East Deniseborough,1
-East Edwinburgh,1
-East Elizabethberg,2
-East Emily,3
-East Emilyburgh,2
-East Garyton,1
-East Heatherport,10
-East John,1
-East Lisa,3
-East Roberthaven,1
-East Sandratown,5
-East Stephanie,7
-East Tammy,2
-East Terrancemouth,1
-East Timothy,1
-Edwardsbury,1
-Frederickside,3
-Gaineschester,3
-Garciatown,1
-Garzaville,2
-Gibsonfort,1
-Gutierrezshire,3
-Harrishaven,7
-Harrisonbury,3
-Heatherside,1
-Heatherview,5
-Herbertbury,3
-Hestermouth,1
-Huberstad,2
-Jamesfurt,6
-Jasonmouth,6
-Jeffreybury,3
-Jeffreyshire,1
-Johnsonborough,3
-Jonathanhaven,1
-Jonathanmouth,3
-Jonathanstad,2
-Jonestown,2
-Jordanborough,3
-Joshuastad,3
-Keithburgh,2
-Kevinfort,3
-Lake Amymouth,2
-Lake Andrewmouth,7
-Lake Cathy,3
-Lake Christopherburgh,5
-Lake Heather,1
-Lake Jamestown,1
-Lake Jasmin,4
-Lake Jason,3
-Lake Jessicamouth,2
-Lake Justin,4
-Lake Kari,1
-Lake Latasha,2
-Lake Lauraton,2
-Lake Michaelfurt,3
-Lake Shelby,2
-Lake Stephen,3
-Lake Tamara,2
-Lake Theresa,3
-Lake Vanessa,5
-Lake Vanessaland,3
-Laurietown,2
-Leslieville,3
-Lewishaven,3
-Linchester,3
-Lindseyland,3
-Longland,2
-Louismouth,3
-Manningshire,1
-Manuelhaven,2
-Marissaville,2
-Marthaside,5
-Marymouth,6
-Matthewbury,1
-Maxwellburgh,1
-Maysside,1
-Mcclainfurt,2
-Meghanfurt,2
-Mendezmouth,2
-Michaelton,3
-Millerview,3
-Mitchellmouth,1
-Morriston,1
-Murrayborough,3
-New Aaronberg,3
-New Baileyfort,2
-New Billy,3
-New Bobbytown,1
-New Calebberg,1
-New Carol,6
-New Curtis,2
-New Dawnborough,4
-New Douglas,1
-New Erica,3
-New Evanport,2
-New Ginaborough,4
-New John,3
-New Lisa,3
-New Robertstad,3
-New Zachary,2
-North Ashley,1
-North Crystal,1
-North Destiny,4
-North Edwinchester,1
-North Gary,1
-North Katelyn,1
-North Katelynland,2
-North Katherineshire,2
-North Keith,2
-North Kevinhaven,3
-North Lisaland,2
-North Mike,3
-North Nathan,2
-North Sherrimouth,3
-North Stevenbury,3
-North Tom,3
-North Victoriastad,2
-North William,6
-Olsenstad,2
-Padillatown,3
-Patrickfort,5
-Paulmouth,4
-Pearsonchester,3
-Perezport,6
-Pereztown,2
-Phillipsfort,6
-Port Amandamouth,1
-Port Bryce,2
-Port Connie,5
-Port Davidshire,1
-Port Donnaton,3
-Port Emily,2
-Port Emilyburgh,2
-Port Eric,3
-Port Karen,1
-Port Kevinburgh,2
-Port Lisamouth,1
-Port Marcland,5
-Port Matthew,1
-Port Melanie,3
-Port Patrick,1
-Port Peter,2
-Port Troychester,7
-Ramseyfort,2
-Raybury,1
-Roachhaven,4
-Ruizmouth,1
-Russellfurt,8
-Samanthabury,1
-Samueltown,5
-Shortfurt,7
-South Alicia,5
-South Allisonburgh,1
-South Andrewport,1
-South Bradleyburgh,1
-South Christopherborough,6
-South Douglashaven,2
-South Edwardtown,6
-South Jerryside,2
-South Justinborough,1
-South Kathryn,8
-South Kellyville,4
-South Lisaberg,4
-South Michaelberg,4
-South Nicole,2
-South Stefanietown,5
-Spenceland,1
-Steeleport,3
-Stevenchester,1
-Sylviabury,1
-Taylormouth,2
-Thomasville,1
-Timothychester,5
-Timothyview,2
-Tinamouth,3
-Toddberg,2
-Toddstad,3
-Vazquezshire,3
-Wadeville,3
-Walkerfurt,3
-Walterborough,3
-West Adam,5
-West Adammouth,1
-West Billborough,1
-West Corey,2
-West Danielborough,3
-West Dannyland,1
-West Kara,2
-West Karen,3
-West Kevin,4
-West Lauraborough,3
-West Lisamouth,3
-West Lucasville,2
-West Melissastad,2
-West Miaside,1
-West Michael,4
-West Omarside,2
-West Whitneymouth,2
-Westmouth,4
-Williamsonmouth,1
-Woodport,2
-Yatesside,2
-Youngchester,3
-Zimmermanville,5
+Provider_City,Receiver_City,Completed_Claims_Count
+Adambury,Danielland,1
+Adambury,South Michelleshire,1
+Allenborough,Lake Rebeccaton,1
+Allenton,Jamieview,1
+Amberton,New Phillipfurt,1
+Andersonmouth,North Hollyland,1
+Andersonville,Thomasland,1
+Andreaborough,Michaeltown,1
+Anneville,Darinland,1
+Anneville,Hallside,1
+Aprilberg,Walshfort,1
+Basstown,West Justinberg,1
+Batesstad,Rayfurt,1
+Benjaminstad,South Benjamin,1
+Bentleyburgh,Bradfurt,1
+Bentonfurt,New Amy,1
+Bradleyport,Lake Dustin,1
+Brandyberg,Reginaburgh,1
+Brittanyside,Lake Daniel,1
+Brittanyville,East Kimberlymouth,1
+Brittanyville,New Jeffreyhaven,1
+Brownberg,New Benjamin,1
+Brownchester,West Robert,1
+Cameronside,Markfurt,1
+Cameronside,South Mirandamouth,1
+Chelseaside,New Juliaton,1
+Clarkberg,Duncanchester,1
+Clarkberg,Richardton,1
+Clarkberg,South Jasonberg,1
+Coleburgh,East Timhaven,1
+Coleburgh,North Pamela,1
+Coleburgh,Port Traci,1
+Coleburgh,Shelbychester,1
+Cunninghambury,Murphyfort,1
+Cunninghambury,West Jeffreyfurt,1
+Danachester,Juliastad,1
+Danachester,Lake Kevinport,1
+Darrylchester,Tanyachester,1
+Davidborough,Port Jenniferborough,1
+Davidland,Lake Lesliemouth,1
+Davidport,West Matthewborough,1
+Davidville,North Erikhaven,1
+Derekport,New Aimeemouth,1
+Derekport,New Brandonton,1
+Devinmouth,Lake Michelle,1
+Devinmouth,Port Brandonberg,1
+Devinmouth,Sarahville,1
+Devinmouth,West Angelatown,1
+Donnaborough,New Kimberly,1
+East Andrea,North Ricardo,1
+East Andrewland,Port Douglasland,1
+East Angela,Lauratown,1
+East Angelafort,Danielfort,1
+East Bernard,South Shirleymouth,1
+East Brittanyland,West Randall,1
+East Candace,Edwardsside,1
+East Candace,North Dawn,1
+East Courtneymouth,East Nathanstad,1
+East Craig,New Jessica,1
+East Deniseborough,Lake Victoriaton,1
+East Edwinburgh,Theresamouth,1
+East Elizabethberg,West Michaelton,1
+East Emily,Port Thomasstad,1
+East Emilyburgh,Gonzalezstad,1
+East Garyton,Russellville,1
+East Heatherport,North Holly,1
+East Heatherport,Port Dawntown,1
+East Heatherport,Port Richard,1
+East Heatherport,Toddborough,1
+East John,North Williamview,1
+East Lisa,West Garretthaven,1
+East Roberthaven,New Carrie,1
+East Sandratown,Garciaview,1
+East Sandratown,Kellybury,1
+East Stephanie,Calebview,1
+East Stephanie,Shelbyland,1
+East Stephanie,Smithshire,1
+East Tammy,North Holly,1
+East Terrancemouth,Jacobmouth,1
+East Timothy,East Heatherbury,1
+Edwardsbury,Meghanfort,1
+Frederickside,East Stephenton,1
+Frederickside,Moorechester,1
+Gaineschester,Clarkhaven,1
+Garciatown,Lake Adriennechester,1
+Garzaville,Christophertown,1
+Gibsonfort,Port Seanshire,1
+Gutierrezshire,West Amandaport,1
+Harrishaven,Melissaport,1
+Harrishaven,Susanfurt,1
+Harrisonbury,Georgeborough,1
+Heatherside,New Stephanie,1
+Heatherview,Kellybury,1
+Heatherview,New Justinhaven,1
+Herbertbury,South Laurachester,1
+Hestermouth,South Emily,1
+Huberstad,East William,1
+Jamesfurt,Lake Joshuabury,1
+Jamesfurt,Shermantown,1
+Jamesfurt,South Edwardburgh,1
+Jasonmouth,Andrewsport,1
+Jasonmouth,Carterton,1
+Jasonmouth,Josephton,1
+Jeffreybury,Andersonview,1
+Jeffreyshire,Lake Darrellburgh,1
+Johnsonborough,Perezport,1
+Jonathanhaven,Port Ronald,1
+Jonathanmouth,Lake Shawn,1
+Jonathanstad,Port Gabrielleborough,1
+Jonestown,East Sharimouth,1
+Jordanborough,Ashleeside,1
+Jordanborough,Halltown,1
+Joshuastad,Riverafort,1
+Keithburgh,Brooksmouth,1
+Kevinfort,Calebview,1
+Lake Amymouth,Port Chaseport,1
+Lake Amymouth,Sharpfurt,1
+Lake Andrewmouth,Brianchester,1
+Lake Andrewmouth,Courtneyfurt,1
+Lake Andrewmouth,Edwardfort,1
+Lake Cathy,South Laurachester,1
+Lake Christopherburgh,Greenton,1
+Lake Heather,Brandonhaven,1
+Lake Jamestown,Lorifurt,1
+Lake Jasmin,Bradleyland,1
+Lake Jason,South Edwardburgh,1
+Lake Jessicamouth,Ellisshire,1
+Lake Justin,North Lori,1
+Lake Justin,Proctorville,1
+Lake Kari,Patriciamouth,1
+Lake Latasha,Amberfort,1
+Lake Latasha,Port Williamtown,1
+Lake Lauraton,Barnesport,1
+Lake Michaelfurt,Josephside,1
+Lake Michaelfurt,Lisabury,1
+Lake Shelby,Suzanneton,1
+Lake Stephen,Troyshire,1
+Lake Tamara,North Jacobhaven,1
+Lake Theresa,Emilymouth,1
+Lake Theresa,Jessicatown,1
+Lake Vanessa,Dylanton,1
+Lake Vanessa,New Tammyhaven,1
+Lake Vanessaland,Emilymouth,1
+Laurietown,Halltown,1
+Leslieville,East Andrewhaven,1
+Leslieville,Jamesview,1
+Lewishaven,Ortizmouth,1
+Linchester,Wilsonshire,1
+Lindseyland,New Tammyhaven,1
+Longland,Ellisshire,1
+Louismouth,East Bryan,1
+Louismouth,South Yolanda,1
+Manningshire,West Bradley,1
+Manuelhaven,Annaborough,1
+Marissaville,Phillipston,1
+Marthaside,Biancaton,1
+Marthaside,Lake Rebeccaton,1
+Marymouth,Lake Christychester,1
+Marymouth,North Hollyland,1
+Matthewbury,West John,1
+Maxwellburgh,Robertsport,1
+Maysside,Wagnerburgh,1
+Mcclainfurt,Ginaview,1
+Meghanfurt,Christopherchester,1
+Mendezmouth,Brownport,1
+Michaelton,Heatherfurt,1
+Michaelton,North Andresport,1
+Millerview,Josephborough,1
+Mitchellmouth,Port Robertmouth,1
+Morriston,North Nathanville,1
+Murrayborough,East Dale,1
+Murrayborough,North Tiffanyfort,1
+New Aaronberg,Davisborough,1
+New Aaronberg,Murrayside,1
+New Baileyfort,Davisport,1
+New Billy,Mooreburgh,1
+New Bobbytown,Port Judith,1
+New Calebberg,Robertton,1
+New Carol,Jenkinsfurt,1
+New Carol,Lewisfort,1
+New Carol,New Natalieland,1
+New Carol,North Pamela,1
+New Curtis,Lake Mitchellbury,1
+New Dawnborough,South Steven,1
+New Dawnborough,West Troyview,1
+New Douglas,North Amy,1
+New Erica,Susanville,1
+New Evanport,West Donnaton,1
+New Ginaborough,East Michael,1
+New Ginaborough,Emilymouth,1
+New John,Williamsborough,1
+New John,Wrightland,1
+New Lisa,Lake Joshuaville,1
+New Robertstad,Clarkhaven,1
+New Zachary,Lake Kimberlyton,1
+North Ashley,Rebeccaview,1
+North Crystal,North Bruce,1
+North Destiny,Thompsonhaven,1
+North Edwinchester,Cynthiashire,1
+North Gary,Davisfort,1
+North Katelyn,Brooksborough,1
+North Katelynland,North Kimberlyport,1
+North Katherineshire,Christopherchester,1
+North Keith,Hallton,1
+North Kevinhaven,South Laurachester,1
+North Lisaland,Erikashire,1
+North Mike,Lake Dillonborough,1
+North Mike,North Shawnastad,1
+North Nathan,Zacharyview,1
+North Sherrimouth,Hornemouth,1
+North Sherrimouth,Westshire,1
+North Stevenbury,Port Sara,1
+North Tom,Lake Cory,1
+North Tom,Lisaview,1
+North Victoriastad,Carterton,1
+North William,East Timhaven,1
+North William,Lake Stephenchester,1
+Olsenstad,Nguyenview,1
+Padillatown,Port Sarah,1
+Patrickfort,Huynhmouth,1
+Patrickfort,Lake Lance,1
+Patrickfort,Port Carmen,1
+Paulmouth,Bradleyland,1
+Pearsonchester,Josephborough,1
+Perezport,East Travis,1
+Perezport,Thomasland,1
+Perezport,Thomasport,1
+Pereztown,Port Carlburgh,1
+Phillipsfort,East Sheriton,1
+Phillipsfort,North Tiffanyfort,1
+Phillipsfort,Port Todd,1
+Port Amandamouth,Rayberg,1
+Port Bryce,Jamesstad,1
+Port Connie,West David,1
+Port Davidshire,Robertside,1
+Port Donnaton,Lake Lesliemouth,1
+Port Emily,Cruzborough,1
+Port Emilyburgh,Juliastad,1
+Port Eric,Smithshire,1
+Port Karen,New Donnahaven,1
+Port Kevinburgh,West Justin,1
+Port Lisamouth,New Christopher,1
+Port Marcland,Andersonview,1
+Port Marcland,Port Carlburgh,1
+Port Matthew,Cookstad,1
+Port Melanie,Lake Catherine,1
+Port Patrick,Gomezmouth,1
+Port Peter,Aguilarstad,1
+Port Troychester,Bradleyland,1
+Port Troychester,North Lydiaberg,1
+Ramseyfort,Christophertown,1
+Raybury,East Tiffanyview,1
+Roachhaven,Phillipsbury,1
+Roachhaven,Reedview,1
+Ruizmouth,West Carrieberg,1
+Russellfurt,Brownbury,1
+Russellfurt,Lake Joshuaville,1
+Samanthabury,Port Caleb,1
+Samueltown,West David,1
+Shortfurt,Maxberg,1
+Shortfurt,West Amybury,1
+Shortfurt,Wilsonshire,1
+South Alicia,Danielfurt,1
+South Alicia,Dawsonberg,1
+South Allisonburgh,New Timothymouth,1
+South Andrewport,South Edwinborough,1
+South Bradleyburgh,South Williamview,1
+South Christopherborough,Port Sarah,1
+South Christopherborough,South Nicoleberg,1
+South Douglashaven,Mariefurt,1
+South Edwardtown,Singletonview,1
+South Edwardtown,South Michaelfurt,1
+South Jerryside,Hansonfurt,1
+South Justinborough,Lake Stevenburgh,1
+South Kathryn,East Daniel,1
+South Kathryn,East Sharon,1
+South Kathryn,Lake Heatherberg,1
+South Kathryn,Lake Rebeccaton,1
+South Kathryn,Lewismouth,1
+South Kellyville,Barreratown,1
+South Kellyville,Duncanchester,1
+South Lisaberg,Alexanderbury,1
+South Lisaberg,West Jacquelineland,1
+South Michaelberg,East Michael,1
+South Michaelberg,New Daniel,1
+South Nicole,Delacruzborough,1
+South Stefanietown,Dantown,1
+South Stefanietown,Reginaburgh,1
+Spenceland,Gutierrezmouth,1
+Steeleport,Lake Amanda,1
+Stevenchester,Robinsonland,1
+Sylviabury,Amandafurt,1
+Taylormouth,East Michael,1
+Thomasville,Jenniferbury,1
+Timothychester,Martinchester,1
+Timothychester,North Matthewhaven,1
+Timothyview,East Sharimouth,1
+Tinamouth,Andersonview,1
+Toddberg,North Sarah,1
+Toddstad,Biancaton,1
+Toddstad,North Joshuafort,1
+Vazquezshire,South Meganland,1
+Vazquezshire,Taylorfort,1
+Wadeville,Mooreburgh,1
+Walkerfurt,Port Richard,1
+Walterborough,Peterhaven,1
+Walterborough,South Veronicaburgh,1
+West Adam,Birdview,1
+West Adam,New Jason,1
+West Adammouth,New Sara,1
+West Billborough,South Davidstad,1
+West Corey,Port Gabrielleborough,1
+West Danielborough,Carlosfurt,1
+West Dannyland,Lake Jonathanchester,1
+West Kara,Port Curtisside,1
+West Karen,Troyshire,1
+West Kevin,Lake Christian,1
+West Kevin,Shortfort,1
+West Lauraborough,North Stephanieborough,1
+West Lauraborough,Port Curtisside,1
+West Lisamouth,Bradfurt,1
+West Lucasville,East Janetstad,1
+West Melissastad,Cruzborough,1
+West Miaside,Christinaland,1
+West Michael,Lake Rachelburgh,1
+West Omarside,Mathistown,1
+West Omarside,Stevenmouth,1
+West Whitneymouth,Andersonfort,1
+Westmouth,Taraside,1
+Westmouth,West Garretthaven,1
+Williamsonmouth,Kellyfurt,1
+Woodport,Port Maria,1
+Yatesside,Lisabury,1
+Youngchester,Chenview,1
+Youngchester,East Jordanborough,1
+Zimmermanville,Adamland,1
+Zimmermanville,Baileyville,1
+Zimmermanville,Joanchester,1
+Zimmermanville,Stephenchester,1
