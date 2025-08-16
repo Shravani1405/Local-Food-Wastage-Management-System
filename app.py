@@ -140,7 +140,7 @@ QUERIES = {
 # -----------------------------
 # Sidebar Filters
 # -----------------------------
-st.sidebar.title("🔎 Filters")
+st.sidebar.title("Filters")
 
 # Lists for filters
 city_list = fetch_df("SELECT DISTINCT Location FROM food_listings WHERE Location IS NOT NULL ORDER BY 1")["Location"].tolist()
@@ -178,13 +178,13 @@ WHERE = f"WHERE {' AND '.join(where_clauses)}" if where_clauses else ""
 # -----------------------------
 # Top Nav
 # -----------------------------
-tabs = st.tabs(["📊 Dashboard", "🗂️ Query Browser (15)", "🧰 CRUD", "📇 Provider Directory", "ℹ️ Help"])
+tabs = st.tabs(["Dashboard", "Query Browser (15)", "CRUD", "Provider Directory", "Help"])
 
 # -----------------------------
 # Dashboard
 # -----------------------------
 with tabs[0]:
-    st.subheader("📊 Dashboard — Available Food Overview")
+    st.subheader("Dashboard — Available Food Overview")
     colA, colB, colC, colD = st.columns(4)
 
     # KPI queries
@@ -267,7 +267,7 @@ with tabs[0]:
 # Query Browser (15)
 # -----------------------------
 with tabs[1]:
-    st.subheader("🗂️ Query Browser")
+    st.subheader("Query Browser")
     qname = st.selectbox("Choose a query", list(QUERIES.keys()), index=0)
 
     if qname == "5. Expiring soon (≤ N days)":
@@ -286,9 +286,9 @@ with tabs[1]:
 # CRUD
 # -----------------------------
 with tabs[2]:
-    st.subheader("🧰 CRUD Operations")
+    st.subheader("CRUD Operations")
 
-    crud_tabs = st.tabs(["➕ Add", "✏️ Update", "🗑️ Delete"])
+    crud_tabs = st.tabs(["➕ Add", "Update", "Delete"])
 
     # ---- ADD ----
     with crud_tabs[0]:
@@ -480,7 +480,7 @@ with tabs[2]:
 # Provider Directory (Contacts)
 # -----------------------------
 with tabs[3]:
-    st.subheader("📇 Provider Directory & Contacts")
+    st.subheader("Provider Directory & Contacts")
     city_pick = st.selectbox("Filter by City", ["All"] + city_list)
     if city_pick == "All":
         provs = fetch_df("SELECT * FROM providers ORDER BY City, Name")
